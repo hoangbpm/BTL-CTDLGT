@@ -23,10 +23,11 @@ Giải thuật này kiểm tra xem có tồn tại đường đi từ một đ�
 
 ## Ví dụ và Kết quả
 
-**Input**:
+
 
 
 ```text
+Input: 
 Đồ thị với 6 đỉnh, các cạnh:
 [(0, 1), (1, 2), (2, 3), (3, 5), (4, 1)]
 Test case 1: src = 4, dest = 5
