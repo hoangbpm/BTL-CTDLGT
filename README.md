@@ -29,7 +29,9 @@ Giải thuật này kiểm tra xem có tồn tại đường đi từ một đ�
 ```text
 Input: 
 Đồ thị với 6 đỉnh, các cạnh:
+
 [(0, 1), (1, 2), (2, 3), (3, 5), (4, 1)]
+
 Test case 1: src = 4, dest = 5
 
 Test case 2: src = 5, dest = 1
@@ -40,7 +42,7 @@ Test case 1: true
 Test case 2: false
 ```
 ### Test trên trang Techiedelight
-
+Link: https://www.techiedelight.com/?problem=IsReachableVertex
 ![Test trên trang https://www.techiedelight.com/?problem=IsReachableVertex](Images/Test_techiedelight.png)
 ### Code C++ test 
 
